@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About blueface
+title: About me
 ---
 
 Hi, this is Chloe, currently a master student major in Business Analytics. 

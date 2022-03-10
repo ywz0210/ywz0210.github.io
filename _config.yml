@@ -3,7 +3,6 @@ title: Chloeyiyi
 subtitle: Blog
 description: Demo
 baseurl: "https://ywz0210.github.io" # the subpath of your site, e.g. /blog
-
 url: "https://ywz0210.github.io"
 github: ywz0210
 highlighter: rouge
