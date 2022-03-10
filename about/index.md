@@ -3,11 +3,12 @@ layout: default
 title: About blueface
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses your system fonts alongside Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
+Hi, this is Chloe, currently a master student major in Business Analytics. 
+Likes video-making, F1 Racing, and cooking.
 
-> It supports blockquotes, too.
+> Brainy is the new sexy.
 
-## blueface on the Internet
+## Template from Blueface 
 
 * [blueface][github] on GitHub (Source Code)
 * [nolsigan][nolsigan] nolsigan.github.io
